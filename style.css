@@ -1,0 +1,29 @@
+.start{
+    color: #02182B;
+    margin-top: 170px;
+    margin-left: 150px;
+}
+.paragraph{
+    font-size: 23px;
+}
+.start h1 span{
+    color: #5A0B4D;
+    border-bottom: 4px solid #5A0B4D;
+    padding-bottom: 3px;
+}
+.btn{
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    background-color: #5A0B4D;
+    padding: 7px;
+    color: #fff;
+    font-size: 15px;
+}
+body{
+    background-image: url(tsitsikos\ project.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
